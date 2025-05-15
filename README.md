@@ -10,7 +10,8 @@
 - 🔐 **User Authentication**
   - Login page (fully functional)
   - Signup/registration page (fully functional)
-  - ![Screenshot 2025-05-15 121827](https://github.com/user-attachments/assets/bf5baf11-afe3-4855-a47f-1de52d73789b)
+  - ![Screenshot 2025-05-15 121827](https://github.com/user-attachments/assets/ef8f53ad-66fd-4b6b-88aa-5e375fdb4ed2)
+
   - ![Screenshot 2025-05-15 121902](https://github.com/user-attachments/assets/ffb29eaa-521c-4842-9f99-2403b95cf3d0)
 
 
